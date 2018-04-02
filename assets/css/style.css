@@ -1,0 +1,10 @@
+.site-footer {
+    background: rgba(0, 0, 0, 0.07);
+    padding: 15px 0;
+}
+.site-footer p {
+    margin:  0;
+}
+.main-body {
+	min-height: 650px;
+}
